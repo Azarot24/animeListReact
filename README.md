@@ -1,1 +1,0 @@
-# animeListReact
